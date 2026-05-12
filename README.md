@@ -763,7 +763,7 @@ A1-email-agent/
 
 ## 📜 License
 
-This project was developed as part of an internship program. Please refer to institutional guidelines for usage and distribution.
+This project was developed as part of an individual interest.
 
 ---
 
@@ -773,15 +773,5 @@ This project was developed as part of an internship program. Please refer to ins
 - **LangChain Team** - For the excellent framework
 - **Google AI** - For Gemini LLM access
 - **Hugging Face** - For transformer models
-- **Our Mentors** - For guidance throughout the project
-
----
-
-**Project Status:** ✅ Complete - All 4 Milestones Delivered  
-**Team:** Group A1 (4 Members)  
-**Duration:** January 2026  
-**Final Presentation:** Ready for Demo
-
----
 
 *For questions or contributions, please refer to individual team member documentation or contact the project leads.*
