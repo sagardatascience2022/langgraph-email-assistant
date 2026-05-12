@@ -715,12 +715,6 @@ A1-email-agent/
 - 📗 [Team Contributions](TEAM_CONTRIBUTIONS.md) - Individual work breakdown
 - 📕 [Final Report](FINAL_REPORT.md) - Complete project summary
 
-### Individual Contributions
-- [Aayush Shah](../AayushShah/README.md) - Environment & Infrastructure
-- [Ganesh Bandaru](../Ganesh_Sai_Manideep_Bandaru/README.md) - Triage & Dataset
-- [Samruddhi Maslage](../SamruddhiMaslage/README.md) - ReAct & Tooling
-- [Payal Kokane](../Payal_Kokane/README.md) - HITL & Observability
-
 ### External Resources
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [LangSmith Platform](https://docs.smith.langchain.com/)
@@ -735,12 +729,6 @@ A1-email-agent/
 2. **State management is critical** - Checkpointing enables robust HITL workflows
 3. **LLM-as-a-judge scales** - Automated evaluation enables rapid iteration
 4. **Mock tools essential** - Safe development without real-world consequences
-
-### Team Collaboration
-1. **Clear roles prevent conflicts** - Each member owned specific components
-2. **Milestone structure works** - Progressive complexity allowed learning
-3. **Documentation matters** - Good docs enable parallel development
-4. **Integration is the hardest part** - Reserve time for combining components
 
 ---
 
